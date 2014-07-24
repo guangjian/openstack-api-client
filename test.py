@@ -36,4 +36,4 @@ conn.close()
 
 user_id = dd['access']['user']['username']
 print "user name is: %s" % user_id
-print ""
+
